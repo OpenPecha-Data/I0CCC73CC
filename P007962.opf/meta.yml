@@ -1,16 +1,17 @@
-id: opecha:P007962
+id: P007962
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1016972
   title: རྫོགས་པ་ཆེན་པོ་ཀློང་ཆེན་སྙིང་ཐིག་གི་འདོན་ཆ་དཔལ་ཆེན་འདུས་པ་རྩལ་གི་ཕྱག་བཞེས་ལྟར་བསྒྲིགས་པ
-  volume:
+  author: ''
+  volumes:
     bb59bd55e7574ca8b7caa4634a39bab5:
       image_group_id: I01JW184
       title: Volume 1 of rdzogs pa chen po klong chen snying thig gi 'don cha dpal
         chen 'dus pa rtsal gi phyag bzhes ltar bsgrigs pa
       volume_number: 1
       total_pages: 898
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྫོགས་པ་ཆེན་པོ་ཀློང་ཆེན་སྙིང་ཐིག་གི་འདོན་ཆ་དཔལ་ཆེན་འདུས་པ་རྩལ་གི་ཕྱག་བཞེས་ལྟར་བསྒྲིགས་པ
   author: ''
